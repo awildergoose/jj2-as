@@ -31,8 +31,6 @@ article.childNodes.forEach(element => {
                     if(foundFunction) {
                         let indexDifference = index - lastDtIndex
 
-                        console.log(indexDifference);
-
                         if(indexDifference == 2 || (indexDifference >= 19 && indexDifference <= 21)) {
                             // special occurances
                             let finished = false;
