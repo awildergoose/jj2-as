@@ -42,12 +42,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpazElectro/jj2-as.git"
+    "url": "git+https://github.com/awildergoose/jj2-as.git"
   },
   "keywords": [],
-  "author": "SpazElectro",
+  "author": "awildergoose",
   "bugs": {
-    "url": "https://github.com/SpazElectro/jj2-as/issues"
+    "url": "https://github.com/awildergoose/jj2-as/issues"
   },
-  "homepage": "https://github.com/SpazElectro/jj2-as#readme"
+  "homepage": "https://github.com/awildergoose/jj2-as#readme"
 }
